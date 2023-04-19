@@ -21,6 +21,52 @@
     <link rel="stylesheet" href="assets/css/index.css">
     <script src="assets/js/loading.js"></script>
 </head>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        line-height: 1.6;
+        margin: 30px;
+        background-color: #f0f0f0;
+    }
+
+    h1 {
+        font-size: 24px;
+        color: #333;
+        margin-bottom: 20px;
+    }
+
+    ul {
+        list-style: none;
+        padding-left: 0;
+    }
+
+    li {
+        margin-bottom: 10px;
+        color: #555;
+    }
+
+    .container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding: 20px;
+        background-color: white;
+        box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+        border-radius: 5px;
+        transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+    }
+
+    .container:hover {
+        box-shadow: 0 14px 28px rgba(0, 0, 0, 0.25), 0 10px 10px rgba(0, 0, 0, 0.22);
+    }
+
+    img {
+        max-width: 150px;
+        border-radius: 50%;
+        border: 3px solid #333;
+    }
+</style>
+
 <body>
 
     <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
