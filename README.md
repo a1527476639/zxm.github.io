@@ -15,13 +15,7 @@
     <meta http-equiv="Pragma" content="no-cache" />
     <meta http-equiv="Expires" content="0" />
     <title>[简历]张晓梦-中医学/北京</title>
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="assets/css/typo.css">
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/index.css">
-    <script src="assets/js/loading.js"></script>
-</head>
-<style>
+    <style>
     body {
         font-family: Arial, sans-serif;
         line-height: 1.6;
@@ -66,6 +60,13 @@
         border: 3px solid #333;
     }
 </style>
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="assets/css/typo.css">
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <link rel="stylesheet" href="assets/css/index.css">
+    <script src="assets/js/loading.js"></script>
+</head>
+
 
 <body>
 
