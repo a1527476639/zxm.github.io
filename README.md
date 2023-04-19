@@ -25,7 +25,9 @@
 
 
 <body>
-    <div style="display: flex; justify-content: space-between; align-items: center;">
+
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+
         <div>
             <h1>张晓梦</h1>
             <ul>
