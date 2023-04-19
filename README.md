@@ -40,7 +40,7 @@
         </div>
         <div>
             <!-- 替换为您需要的图片链接 -->
-            <img style="max-width: 150px; border-radius: 50%;" src="https://via.placeholder.com/150" alt="张晓梦照片">
+            <img style="max-width: 150px; border-radius: 50%;" src="https://raw.githubusercontent.com/a1527476639/zxm.github.io/main/zxm.png" alt="张晓梦照片">
         </div>
     </div>
 </body>
