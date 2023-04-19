@@ -16,28 +16,46 @@
     <meta http-equiv="Expires" content="0" />
     <title>[简历]张晓梦-中医学/北京</title>
     <style>
-    body {
-        font-family: Arial, sans-serif;
-        line-height: 1.6;
-        margin: 30px;
-        background-color: #f0f0f0;
-    }
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 30px;
+    background-color: #f5f5f5;
+    transition: background-color 0.5s ease;
+}
 
-    h1 {
-        font-size: 24px;
-        color: #333;
-        margin-bottom: 20px;
-    }
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    transition: all 0.3s ease;
+}
 
-    ul {
-        list-style: none;
-        padding-left: 0;
-    }
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
 
-    li {
-        margin-bottom: 10px;
-        color: #555;
-    }
+h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+.container:hover {
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
 
     .container {
         display: flex;
