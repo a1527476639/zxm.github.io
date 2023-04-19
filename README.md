@@ -1,33 +1,42 @@
-
+<!DOCTYPE html>
 <html lang="zh-cn">
-
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta name="format-detection" content="email=no" />
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="format-detection" content="telephone=no" />
-    <meta name="renderer" content="webkit">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black">
-    <meta name="apple-mobile-web-app-title" content="Amaze UI" />
-    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
-    <meta http-equiv="Pragma" content="no-cache" />
-    <meta http-equiv="Expires" content="0" />
-    <title>[简历]张晓梦-中医学/北京</title>
-    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon">
-    <link rel="stylesheet" href="assets/css/typo.css">
-    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
-    <link rel="stylesheet" href="assets/css/index.css">
-    <script src="assets/js/loading.js"></script>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Resume</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            font-size: 16px;
+            line-height: 1.5;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 20px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+        }
+        .container img {
+            max-width: 150px;
+            border-radius: 50%;
+            margin-left: 20px;
+        }
+        ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
 </head>
-
-
 <body>
-
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
-
+    <div class="container">
         <div>
             <h1>张晓梦</h1>
             <ul>
@@ -41,11 +50,10 @@
             </ul>
         </div>
         <div>
-            <!-- 替换需要的图片链接 -->
-            <img style="max-width: 150px; border-radius: 50%;" src="https://raw.githubusercontent.com/a1527476639/zxm.github.io/main/zxm.png" alt="张晓梦照片">
+            <img src="https://raw.githubusercontent.com/a1527476639/zxm.github.io/main/zxm.png" alt="张晓梦照片">
         </div>
     </div>
-</body>
+
 
 
     <h2>教育背景</h2>
@@ -102,5 +110,6 @@
         <li>具有一定的组织策划能力，曾多次组织策划社团活动及社会实践活动。</li>
     </ul>
 
+</body>
 </html>
 
