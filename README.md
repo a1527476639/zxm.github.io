@@ -26,7 +26,7 @@
 
 <body>
 
-    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 10px;">
 
         <div>
             <h1>张晓梦</h1>
@@ -41,7 +41,7 @@
             </ul>
         </div>
         <div>
-            <!-- 替换为您需要的图片链接 -->
+            <!-- 替换需要的图片链接 -->
             <img style="max-width: 150px; border-radius: 50%;" src="https://raw.githubusercontent.com/a1527476639/zxm.github.io/main/zxm.png" alt="张晓梦照片">
         </div>
     </div>
