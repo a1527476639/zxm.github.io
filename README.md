@@ -25,16 +25,23 @@
 
 
 <body>
-    <h1>张晓梦</h1>
-    <ul>
-        <li>性别：女</li>
-        <li>民族：汉</li>
-        <li>生源地：河南</li>
-        <li>政治面貌：预备党员</li>
-        <li>出生年月：2000.05.10</li>
-        <li>电话：185-1684-1005</li>
-        <li>邮箱：1527476639@qq.com</li>
-    </ul>
+    <div class="resume-content">
+        <h1>张晓梦</h1>
+        <ul>
+            <li>性别：女</li>
+            <li>民族：汉</li>
+            <li>生源地：河南</li>
+            <li>政治面貌：预备党员</li>
+            <li>出生年月：2000.05.10</li>
+            <li>电话：185-1684-1005</li>
+            <li>邮箱：1527476639@qq.com</li>
+        </ul>
+    </div>
+    <div>
+        <!-- 替换为您需要的图片链接 -->
+        <img class="photo" src="https://via.placeholder.com/150" alt="张晓梦照片">
+    </div>
+</body>
 
     <h2>教育背景</h2>
     <ul>
